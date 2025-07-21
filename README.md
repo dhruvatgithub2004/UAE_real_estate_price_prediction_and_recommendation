@@ -101,3 +101,6 @@ To use this real estate analysis, prediction, and recommendation system, follow 
 ## Analogy
 
 Imagine this project as a highly efficient digital real estate agent. Data cleaning and feature engineering are like the agent meticulously organizing every property detail—from room counts, including 'plus' spaces, to square footage and sea views. Price prediction models are the agent’s valuation skills, estimating market worth with higher accuracy for common properties and less for ultra-luxury ones with unique attributes. The recommendation system is the agent’s intuition, understanding your desires (e.g., "I want a quiet family home near a park") and suggesting listings that match the essence of your preferences.
+
+## Link to the app
+https://huggingface.co/spaces/dhruvdesai15/real_estate_price_prediction
